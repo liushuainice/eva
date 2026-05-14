@@ -1,0 +1,25 @@
+# ECDICT 词典数据库（太大，需单独下载）
+ecdict.db
+
+# 用户数据库（个人数据，不提交）
+eva.db
+eva.db-shm
+eva.db-wal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+*.zip
+*.tmp
+test_output.csv
+/tmp/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

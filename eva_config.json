@@ -1,0 +1,6 @@
+{
+    "ecdict_db": "./ecdict.db",
+    "eva_db": "./eva.db",
+    "auto_save": false,
+    "auto_filter": 0
+}
